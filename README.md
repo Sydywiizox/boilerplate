@@ -1,5 +1,7 @@
 # React + Supabase Boilerplate
 
+[![Use this template](https://img.shields.io/badge/-Use%20this%20template-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sydywiizox/boilerplate/generate)
+
 Ce boilerplate est une base de démarrage moderne et élégante pour créer des applications React avec authentification Supabase. Il inclut les fonctionnalités suivantes :
 
 - Authentification complète (email/mot de passe et Google)
